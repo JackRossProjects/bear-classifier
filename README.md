@@ -24,3 +24,17 @@ So here we go... Welcome to this very infromal series where I fail my way throug
 10.) I'm absolutely the next Andrew Ng
 
 11.) Pkl file is too big to post to github so you'll just have to clone my notebook and hope to god I uploaded everything
+
+12.) Uploaded pkl file to dropbox
+
+13.) Could not figure out how to get a public link to my dropbox pkl file for a solid 20 mins
+
+14.) Got that shit: https://www.dropbox.com/s/k9won4n7ga8yvqq/bears.pkl?raw=1
+
+15.) Downloaded the Render classifier template
+
+16.) Swapped my dropbox link and pkl file in server.py
+
+17.) Tested web app locally
+
+18.) It works. I rock.
