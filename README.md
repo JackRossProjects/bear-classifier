@@ -31,6 +31,8 @@ So here we go... Welcome to this very infromal series where I fail my way throug
 
 14.) Got that shit: https://www.dropbox.com/s/k9won4n7ga8yvqq/bears.pkl?raw=1
 
+## Next tool! - Render
+
 15.) Downloaded the Render classifier template
 
 16.) Swapped my dropbox link and pkl file in server.py
