@@ -1,4 +1,4 @@
-## Jack Tests Random Frameworks - FastAI
+## Jack Tests Random ML Tools - FastAI
 
 So here we go... Welcome to this very infromal series where I fail my way through various ML frameworks.<br>
 
